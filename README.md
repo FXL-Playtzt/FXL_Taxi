@@ -5,13 +5,21 @@ Dieses Skript implementiert ein realistisches **Taxi-System für FiveM**, inklus
 ## ✨ Features
 <div style="background:#000;color:#fff;padding:10px;border-radius:5px;">
 ✅ NPC-Interaktion zum Starten der Fahrt
+   
 ✅ Zufällige Pannen während der Fahrt
+
 ✅ Motor beginnt zu rauchen bei einer Panne
+
 ✅ NPC steigt aus, geht zur Motorhaube und führt eine Reparatur durch
+
 ✅ Motorhaube öffnet sich automatisch
+
 ✅ Nach der Reparatur setzt die Fahrt sich fort
+
 ✅ Spieler kann während der Fahrt nicht aussteigen
+
 ✅ Kilometer-Anzeige für die verbleibende Strecke
+
 </div>
 
 ## 🔧 Installation
