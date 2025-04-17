@@ -7,7 +7,6 @@ Dieses Skript implementiert ein realistisches **Taxi-System für FiveM**, inklus
 ✅ NPC-Interaktion zum Starten der Fahrt
    
 ✅ Zufällige Pannen während der Fahrt
-
 ✅ Motor beginnt zu rauchen bei einer Panne
 
 ✅ NPC steigt aus, geht zur Motorhaube und führt eine Reparatur durch
