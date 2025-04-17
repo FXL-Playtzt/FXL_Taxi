@@ -33,10 +33,6 @@ Entity Handling zur Steuerung von NPCs & Fahrzeugen
 
 Falls du zusätzliche Skripte einbinden möchtest, kannst du ESX oder QBCore nutzen.
 
-🖥️ HTML Beispiel für UI
-Falls du eine Benutzeroberfläche für das Taxi-System einbauen willst, kannst du ein HTML-basiertes UI erstellen! Hier ist ein Beispiel für eine einfache UI-Anzeige:
-
-html
 <div id="taxi-ui">
     <h2>🚖 Taxi-Fahrt läuft...</h2>
     <p id="distance">Entfernung zum Ziel: 3.2 km</p>
@@ -56,4 +52,4 @@ Falls der NPC nicht spawnt, überprüfe fxmanifest.lua und stelle sicher, dass c
 Falls die Panne nicht korrekt funktioniert, überprüfe die Werte für Motor-Gesundheit und Partikel-Effekte.
 
 👨‍💻 Credits
-Erstellt für FiveM Roleplay-Server – für eine realistische Spielerfahrung! 🎭✨
+Erstellt für `FiveXLive`  – für eine realistische Spielerfahrung! 🎭✨
