@@ -33,16 +33,6 @@ Entity Handling zur Steuerung von NPCs & Fahrzeugen
 
 Falls du zusätzliche Skripte einbinden möchtest, kannst du ESX oder QBCore nutzen.
 
-<div id="taxi-ui">
-    <h2>🚖 Taxi-Fahrt läuft...</h2>
-    <p id="distance">Entfernung zum Ziel: 3.2 km</p>
-</div>
-
-<script>
-    document.getElementById("distance").innerText = "Entfernung zum Ziel: 2.8 km";
-</script>
-Dieses Beispiel zeigt eine UI-Anzeige für die verbleibende Kilometer-Distanz während der Fahrt. 🎯🚖
-
 🎭 Nutzung
 <details> <summary>Klicke hier für eine detaillierte Erklärung</summary> <p>- Gehe zum NPC an der Taxi-Station.</p> <p>- Drücke "E", um eine Fahrt zu starten.</p> <p>- Genieße die Fahrt – aber Achtung, es könnte eine Panne geben! 🚧</p> <p>- Falls eine Panne auftritt, führt der NPC eine Reparatur durch, bevor die Fahrt fortgesetzt wird.</p> </details>
 
