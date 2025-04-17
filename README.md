@@ -41,17 +41,7 @@ html
     <h2>🚖 Taxi-Fahrt läuft...</h2>
     <p id="distance">Entfernung zum Ziel: 3.2 km</p>
 </div>
-<style>
-    #taxi-ui {
-        position: fixed;
-        bottom: 10px;
-        left: 10px;
-        background: rgba(0, 0, 0, 0.7);
-        color: white;
-        padding: 10px;
-        border-radius: 5px;
-    }
-</style>
+
 <script>
     document.getElementById("distance").innerText = "Entfernung zum Ziel: 2.8 km";
 </script>
