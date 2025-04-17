@@ -4,8 +4,8 @@ Dieses Skript implementiert ein realistisches **Taxi-System für FiveM**, inklus
 
 ## ✨ Features
 <div style="background:#000;color:#fff;padding:10px;border-radius:5px;">
+   
 ✅ NPC-Interaktion zum Starten der Fahrt
-
    
 ✅ Zufällige Pannen während der Fahrt
 
