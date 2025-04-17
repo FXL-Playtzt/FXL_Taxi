@@ -22,9 +22,6 @@ Dieses Skript implementiert ein realistisches **Taxi-System für FiveM**, inklus
 ensure taxi_system
 Starte den Server und teste die Taxi-Funktion! 🚀
 
-⚙️ Konfiguration
-Bearbeite die Datei config.lua, um folgende Werte anzupassen: <table style="border-collapse: collapse; width: 100%;"> <tr style="background:#222;color:#fff;"> <th style="padding:10px;border:1px solid #fff;">Option</th> <th style="padding:10px;border:1px solid #fff;">Beschreibung</th> </tr> <tr> <td style="padding:10px;border:1px solid #ccc;">NPCSpawn</td> <td style="padding:10px;border:1px solid #ccc;">Legt den Standort des Taxi-NPCs fest.</td> </tr> <tr> <td style="padding:10px;border:1px solid #ccc;">TaxiModel</td> <td style="padding:10px;border:1px solid #ccc;">Definiert das Fahrzeug-Modell des Taxis.</td> </tr> <tr> <td style="padding:10px;border:1px solid #ccc;">TaxiSpeed</td> <td style="padding:10px;border:1px solid #ccc;">Legt die Geschwindigkeit des Fahrzeugs fest.</td> </tr> </table>
-
 🌐 Frameworks & Dependencies
 Dieses Skript läuft auf FiveM, einer modifizierten GTA V Multiplayer-Framework. Folgende Technologien werden verwendet:
 
