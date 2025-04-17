@@ -22,7 +22,7 @@ Dieses Skript implementiert ein realistisches **Taxi-System für FiveM**, inklus
 ensure taxi_system
 Starte den Server und teste die Taxi-Funktion! 🚀
 
-##🌐 Frameworks & Dependencies
+## 🌐 Frameworks & Dependencies
 Dieses Skript läuft auf FiveM, einer modifizierten GTA V Multiplayer-Framework. Folgende Technologien werden verwendet:
 
 Lua für Client- und Server-Skripte
@@ -33,13 +33,13 @@ Entity Handling zur Steuerung von NPCs & Fahrzeugen
 
 Falls du zusätzliche Skripte einbinden möchtest, kannst du ESX oder QBCore nutzen.
 
-##🎭 Nutzung
+## 🎭 Nutzung
 <details> <summary>Klicke hier für eine detaillierte Erklärung</summary> <p>- Gehe zum NPC an der Taxi-Station.</p> <p>- Drücke "E", um eine Fahrt zu starten.</p> <p>- Genieße die Fahrt – aber Achtung, es könnte eine Panne geben! 🚧</p> <p>- Falls eine Panne auftritt, führt der NPC eine Reparatur durch, bevor die Fahrt fortgesetzt wird.</p> </details>
 
-##📌 Hinweise
+## 📌 Hinweise
 Falls der NPC nicht spawnt, überprüfe fxmanifest.lua und stelle sicher, dass client.lua richtig geladen wird.
 
 Falls die Panne nicht korrekt funktioniert, überprüfe die Werte für Motor-Gesundheit und Partikel-Effekte.
 
-##👨‍💻 Credits
+## 👨‍💻 Credits
 Erstellt für `FiveXLive`  – für eine realistische Spielerfahrung! 🎭✨
